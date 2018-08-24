@@ -8,7 +8,7 @@ export default class Application extends Component {
   render() {
     return (
       <main className="Application">
-        <Counter />
+        <CounterContainer />
       </main>
     );
   }
